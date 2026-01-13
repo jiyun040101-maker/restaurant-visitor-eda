@@ -4,6 +4,8 @@
 This mini project explores restaurant visitor traffic patterns using the Kaggle **Recruit Restaurant Visitor Forecasting** dataset.  
 The goal is to identify **weekly patterns (day-of-week, weekend effect)** and **monthly trends** and translate them into basic operational insights.
 
+📓 Notebook: [Open in Google Colab](https://colab.research.google.com/github/jiyun040101-maker/restaurant-visitor-eda/blob/main/Recruit_Restaurant_Visitor_Analysis.ipynb)
+
 ## Dataset
 - Source: Kaggle "Recruit Restaurant Visitor Forecasting"
 - File used: `air_visit_data.csv`
