@@ -1,10 +1,13 @@
 # Restaurant Visitor EDA (Recruit Restaurant Visitor Forecasting)
 
+
+📓 Notebook: Developed in Google Colab.  
+Open in Google Colab for full interactivity.
+ [Open in Google Colab](https://colab.research.google.com/github/jiyun040101-maker/restaurant-visitor-eda/blob/main/Recruit_Restaurant_Visitor_Analysis.ipynb)
+ 
 ## Overview
 This mini project explores restaurant visitor traffic patterns using the Kaggle **Recruit Restaurant Visitor Forecasting** dataset.  
 The goal is to identify **weekly patterns (day-of-week, weekend effect)** and **monthly trends** and translate them into basic operational insights.
-
-📓 Notebook: [Open in Google Colab](https://colab.research.google.com/github/jiyun040101-maker/restaurant-visitor-eda/blob/main/Recruit_Restaurant_Visitor_Analysis.ipynb)
 
 ## Dataset
 - Source: Kaggle "Recruit Restaurant Visitor Forecasting"
@@ -34,6 +37,7 @@ The goal is to identify **weekly patterns (day-of-week, weekend effect)** and **
 - Visitor demand shows clear **weekly patterns** across days of the week.
 - Weekend averages differ from weekdays, suggesting a **weekend effect**.
 - Monthly averages fluctuate, which may reflect **seasonality, holidays, or promotions**.
+- These patterns provide a basis for adjusting staffing levels and operational planning.
 
 ## Next Steps
 - Store-level analysis using `air_store_id`
